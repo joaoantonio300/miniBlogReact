@@ -1,3 +1,16 @@
+# 📘 Projeto React + Firebase
+
+Este repositório contém uma aplicação web desenvolvida com **React.js** no frontend e **Firebase** como backend, oferecendo uma solução moderna, escalável e em tempo real para aplicações web.
+
+## 🚀 Tecnologias Utilizadas
+
+- ⚛️ **React.js** – Framework JavaScript para construção da interface
+- 🔥 **Firebase** – Plataforma backend como serviço (BaaS), incluindo:
+  - **Cloud Firestore** – Banco de dados NoSQL em tempo real
+  - **Firebase Authentication** – Autenticação de usuários
+  - **Firebase Hosting** – Hospedagem web rápida e segura
+  - (Opcional) **Firebase Storage** – Armazenamento de arquivos (ex: imagens)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
